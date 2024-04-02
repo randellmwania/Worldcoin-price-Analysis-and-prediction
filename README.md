@@ -11,7 +11,7 @@ You know how cryptocurrency markets are, right? Super volatile! But that's what 
 ## Features
 
 - **Data Exploration**: First things first, I gotta load and explore that historical Worldcoin price data using pandas. It's all about gaining insights into the dataset's structure and characteristics, you know?
-
+  ![alt text](image.png)
 - **Modeling**: Time to get serious! I'm training several machine learning models, including Random Forest Regressor, Linear Regression, Gradient Boosting Regressor, and Support Vector Regressor. These bad boys are gonna help me predict Worldcoin prices based on various features like opening price, highest price, lowest price, volume, and market cap.
 
 - **Evaluation**: Gotta keep track of how well my models are doing, right? So, I'm evaluating the performance of each model using the mean squared error (MSE) metric. It's all about getting insights into their predictive capabilities.
