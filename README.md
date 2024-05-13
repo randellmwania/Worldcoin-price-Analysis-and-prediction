@@ -25,6 +25,8 @@ Time to get serious! I'm training several machine learning models, including Ran
 
 Gotta keep track of how well my models are doing, right? So, I'm evaluating the performance of each model using the mean squared error (MSE) metric. It's all about getting insights into their predictive capabilities.
 
+![alt text](truevspredicted.png)
+
 ### Interactive Prediction:
 
 Oh yeah, this is where it gets fun! I've created an interactive interface for you to input new data and get predictions for future Worldcoin prices using my trained models.
