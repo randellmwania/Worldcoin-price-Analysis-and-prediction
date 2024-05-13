@@ -14,8 +14,8 @@ You know how cryptocurrency markets are, right? Super volatile! But that's what 
 
 First things first, I gotta load and explore that historical Worldcoin price data using pandas. It's all about gaining insights into the dataset's structure and characteristics, you know?
 
-![alt text](image.png)
 ![alt text](closepricedist.png)
+![alt text](image.png)
 
 ### Modeling:
 
