@@ -14,8 +14,8 @@ You know how cryptocurrency markets are, right? Super volatile! But that's what 
 
 First things first, I gotta load and explore that historical Worldcoin price data using pandas. It's all about gaining insights into the dataset's structure and characteristics, you know?
 
-![alt text](image-2.png)
-![alt text](image-1.png)
+![alt text](image-4.png)
+![alt text](image-3.png)
 
 ### Modeling:
 
@@ -25,7 +25,7 @@ Time to get serious! I'm training several machine learning models, including Ran
 
 Gotta keep track of how well my models are doing, right? So, I'm evaluating the performance of each model using the mean squared error (MSE) metric. It's all about getting insights into their predictive capabilities.
 
-![alt text](truevspredicted.png)
+![alt text](image-5.png)
 
 ### Interactive Prediction:
 
